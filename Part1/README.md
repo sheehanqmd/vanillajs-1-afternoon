@@ -176,6 +176,7 @@ In this step, we will create an array that will keep track of the game's progres
     - ex. If the top left square was clicked by player `X`, we would expect `X` to be added to the array at index 0.
     - ex. If the very center square was clicked by player `O`, we would expect `O` to be added to the array at index 4.
 - `console.log` the array in your function to keep track of it's current value.
+    
 
 <details>
 <summary>
